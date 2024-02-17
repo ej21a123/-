@@ -1,0 +1,191 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="ja" lang="ja">
+<head>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+<meta http-equiv="content-language" content="ja" />
+<meta name="robots" content="index,follow" />
+<meta name="keywords" content="Osaka Electro-Communication University, Media Communication Center, MC2, OECU, 大阪電気通信大学, メディアコミュニケーションセンター" />
+<meta name="description" content="大阪電気通信大学メディアコミュニケーションセンターのポータルサイト。" />
+<meta name="rating" content="general" />
+<meta name="author" content="Media Communication Center" />
+<meta name="copyright" content="Copyright &copy; 2009" />
+<meta name="generator" content="XOOPS" />
+<title>メディアコミュニケーションセンター - ニュース</title>
+<link href="https://www.mc2.osakac.ac.jp/mc2/favicon.ico" rel="SHORTCUT ICON" />
+<link rel="stylesheet" type="text/css" media="screen" href="https://www.mc2.osakac.ac.jp/mc2/xoops.css" />
+<link rel="stylesheet" type="text/css" media="print" href="https://www.mc2.osakac.ac.jp/mc2/print.css" />
+
+  <link rel="stylesheet" type="text/css" media="screen" href="https://www.mc2.osakac.ac.jp/mc2/themes/mc2/styleNN.css" />
+
+<!-- RMV: added module header -->
+<script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.8/jquery.min.js"></script><script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jqueryui/1.8/jquery-ui.min.js"></script><link type="text/css" rel="stylesheet" href="//ajax.googleapis.com/ajax/libs/jqueryui/1.8/themes/smoothness/jquery-ui.css" />
+<link rel="alternate" type="application/rss+xml" title="RSS2.0" href="https://www.mc2.osakac.ac.jp/mc2/modules/bulletin/index.php?page=rss" />
+<script type="text/javascript">
+<!--
+//--></script><script type="text/javascript" src="https://www.mc2.osakac.ac.jp/mc2/include/xoops.js"></script><script type="text/javascript"><!--
+//-->
+</script>
+</head>
+<body>
+  <table cellspacing="0">
+    <tr id="header">
+      <td id="headerlogo0"><a href="http://www.osakac.ac.jp/"><img src="https://www.mc2.osakac.ac.jp/mc2/themes/mc2/osakac_tagline.jpg" width="193" height="58" alt="" /></a></td>
+      <td id="headerlogo"><a href="https://www.mc2.osakac.ac.jp/mc2/"><img src="https://www.mc2.osakac.ac.jp/mc2/themes/mc2/mc2_logo.png" width="448" height="49" alt="" /></a></td>
+      <td id="headerbanner">&nbsp;</td>
+    </tr>
+    <tr>
+      <td id="headerbar" colspan="3">&nbsp;</td>
+    </tr>
+  </table>
+
+  <table cellspacing="0">
+    <tr>
+      <td id="leftcolumn">
+        <!-- Start left blocks loop -->
+                  <div class="blockTitle">MC2について</div>
+<div class="blockContent"><table cellspacing="0">
+  <tr>
+    <td id="mainmenu">
+      <!-- start module menu loop -->
+                                    <a class="menuTop" href="http://www.mc2.osakac.ac.jp/mc2/modules/info/introduction/history.html" target="_self">沿革</a>
+                                                              <a class="menuMain" href="http://www.mc2.osakac.ac.jp/mc2/modules/info/room/" target="_self">施設紹介</a>
+                                      <!-- end module menu loop -->
+    </td>
+  </tr>
+</table></div>                  <div class="blockTitle">クイックリンク1</div>
+<div class="blockContent"><table cellspacing="0">
+  <tr>
+    <td id="mainmenu">
+      <!-- start module menu loop -->
+                                    <a class="menuTop" href="/redirect/myportal/" target="_self">マイポータル(MyPortal)</a>
+                                                              <a class="menuMain" href="https://sites.google.com/osakac.ac.jp/shushoku/kyujin-navi" target="_blank">求人検索NAVI</a>
+                                                              <a class="menuMain" href="http://m.oecu.jp/" target="_blank">OECUメール</a>
+                                                              <a class="menuMain" href="http://d.oecu.jp/" target="_blank">Googleドライブ(OECUメール)</a>
+                                                              <a class="menuMain" href="http://www.mc2.osakac.ac.jp/mc2/modules/info/moodle/" target="_self">学科別E-ラーニング（Moodle）</a>
+                                                              <a class="menuMain" href="http://m.osakac.ac.jp/" target="_self">教職員用Gmail</a>
+                                                              <a class="menuMain" href="http://www.mc2.osakac.ac.jp/sslvpn/" target="_blank">学内ネットワーク接続（SSL-VPN）</a>
+                                                              <a class="menuMain" href="https://wshare.mc2.osakac.ac.jp/" target="_self">教職員向けファイル共有（Proself）</a>
+                                                              <a class="menuMain" href="https://rishu.osakac.ac.jp" target="_blank">Web履修登録</a>
+                                                              <a class="menuMain" href="https://sites.google.com/oecu.jp/open-cal/" target="_blank">演習室開放予定</a>
+                                      <!-- end module menu loop -->
+    </td>
+  </tr>
+</table></div>                  <div class="blockTitle">クイックリンク2</div>
+<div class="blockContent"><table cellspacing="0">
+  <tr>
+    <td id="mainmenu">
+      <!-- start module menu loop -->
+                                    <a class="menuTop" href="http://oeculib.osakac.ac.jp/" target="_self">図書館蔵書検索</a>
+                                                              <a class="menuMain" href="https://myportal.osakac.ac.jp/m/websyllabus/search.xhtml" target="_blank">教授要目（電子シラバス）</a>
+                                                              <a class="menuMain" href="https://oecuclevas.osakac.ac.jp/clevas/" target="_blank">【新】OECU授業収録システム（学内限定）</a>
+                                                              <a class="menuMain" href="http://mcview-i.mgr.osakac.ac.jp" target="_blank">【旧】OECU授業収録システム（学内限定）</a>
+                                                              <a class="menuMain" href="https://osakac.yakumonet.org/" target="_self">化学物質管理支援システム「YA-SHIO」</a>
+                                                              <a class="menuMain" href="https://www.osakac.ac.jp/campuslife/schedule/01/" target="_self">年間行事予定</a>
+                                      <!-- end module menu loop -->
+    </td>
+  </tr>
+</table></div>                  <div class="blockTitle">サービスの利用方法について</div>
+<div class="blockContent"><table cellspacing="0">
+  <tr>
+    <td id="mainmenu">
+      <!-- start module menu loop -->
+                                    <a class="menuTop" href="http://www.mc2.osakac.ac.jp/mc2/modules/network/" target="_self">学内ネットワーク(無線・有線LAN)</a>
+                                                              <a class="menuMain" href="http://www.mc2.osakac.ac.jp/software/" target="_self">ソフトウェア提供</a>
+                                                              <a class="menuMain" href="http://www.mc2.osakac.ac.jp/mc2/modules/network/shinsei/shinsei.html" target="_self">申請書ダウンロード</a>
+                                                              <a class="menuMain" href="http://www.mc2.osakac.ac.jp/mc2/modules/network/manual/" target="_self">マニュアルダウンロード</a>
+                                      <!-- end module menu loop -->
+    </td>
+  </tr>
+</table></div>                  <div class="blockTitle">教職員用サービス（学内アクセスのみ）</div>
+<div class="blockContent"><table cellspacing="0">
+  <tr>
+    <td id="mainmenu">
+      <!-- start module menu loop -->
+                                    <a class="menuTop" href="https://goffice1.osakac.ac.jp/" target="_self">教職員用ガルーン</a>
+                                      <!-- end module menu loop -->
+    </td>
+  </tr>
+</table></div>                  <div class="blockTitle">センター情報</div>
+<div class="blockContent"><table cellspacing="0">
+  <tr>
+    <td id="mainmenu">
+      <!-- start module menu loop -->
+                                    <a class="menuTop" href="http://www.mc2.osakac.ac.jp/mc2/modules/inquiry/" target="_self">問い合わせ先</a>
+                                                              <a class="menuMain" href="http://www.mc2.osakac.ac.jp/mc2/modules/bulletin/index.php?storytopic=8" target="_self">障害・メンテナンス情報</a>
+                                                              <a class="menuMain" href="http://www.mc2.osakac.ac.jp/mc2/modules/info/kitei/syskitei.html" target="_self">各種規定</a>
+                                      <!-- end module menu loop -->
+    </td>
+  </tr>
+</table></div>                  <div class="blockTitle">Google検索</div>
+<div class="blockContent"><!-- Google  -->
+<center>
+<form method=get action="http://www.google.co.jp/search">
+<table bgcolor="#FFFFFF"><tr><td>
+<a href="http://www.google.co.jp/">
+<img src="http://www.mc2.osakac.ac.jp/picture/gLogo40wht.gif" 
+border="0" alt="Google" align="absmiddle"></a>
+<input type=text name=q size=31 maxlength=255 value="">
+<input type=hidden name=ie value=UTF-8>
+<input type=hidden name=oe value=UTF-8>
+<input type=hidden name=hl value="ja">
+<INPUT type=hidden name="as_sitesearch" value="www.mc2.osakac.ac.jp"> 
+<input type=submit name=btnG value="Google 検索">
+</td></tr></table>
+</form>
+</center>
+<!-- Google --></div>                <!-- End left blocks loop -->
+
+      </td>
+
+      <td id="centercolumn">
+
+        <!-- Display center blocks if any -->
+        
+        <table cellspacing="0">
+          <tr>
+            <td id="centerCcolumn" colspan="2">
+
+            <!-- Start center-center blocks loop -->
+                          <div style="padding: 5px;">
+  <fieldset>
+    <legend class="blockTitle">演習室開放情報</legend>
+    <div class="blockContent"><h4>演習室開放予定は以下のボタンをクリックして確認してください。</h4>
+<div style="width:300px; height:48px; line-height:50px;"><a href="https://sites.google.com/oecu.jp/open-cal/%E3%83%9B%E3%83%BC%E3%83%A0" target="_blank" style="display:block;&#10;&#10;              width:100%;&#10;&#10;              height:100%;&#10;&#10;              text-decoration: none;&#10;&#10;              background:#8EC31F;&#10;&#10;              text-align:center;&#10;&#10;              color:#FFFFFF;&#10;&#10;              font-size:39px;&#10;&#10;              font-weight:bold;&#10;&#10;              border-radius:10px;&#10;&#10;              -webkit-border-radius:10px;&#10;&#10;              -moz-border-radius:10px;">          演習室開放予定      </a></div></div>
+  </fieldset>
+</div>                        <!-- End center-center blocks loop -->
+
+            </td>
+          </tr>
+          <tr>
+            <td id="centerLcolumn">
+
+            <!-- Start center-left blocks loop -->
+                          <!-- End center-left blocks loop -->
+
+            </td><td id="centerRcolumn">
+
+            <!-- Start center-right blocks loop -->
+                          <!-- End center-right blocks loop -->
+
+            </td>
+          </tr>
+        </table>
+
+                <!-- End display center blocks -->
+
+        <div id="content">
+          <div style="float:right">|&nbsp;<a href="https://www.mc2.osakac.ac.jp/mc2/modules/bulletin/index.php?page=archive" title="アーカイブ">アーカイブ</a>&nbsp;|&nbsp;<a href="https://www.mc2.osakac.ac.jp/mc2/modules/bulletin/index.php?page=rss" title="RSS">RSS</a>&nbsp;|</div><div style="clear: both ; height:0px; visibility:hidden;"></div><!-- start news item loop --><div class="item"><div class="itemHead"><span class="itemTitle"><a href="https://www.mc2.osakac.ac.jp/mc2/modules/bulletin/index.php?storytopic=3" title="センターからのお知らせ">センターからのお知らせ</a>&nbsp;:&nbsp;<a href="https://www.mc2.osakac.ac.jp/mc2/modules/bulletin/index.php?page=article&amp;storyid=582" title="MATLAB R2023b 提供開始のお知らせ">MATLAB R2023b 提供開始のお知らせ</a></span></div><div class="itemInfo"><span class="itemPoster">投稿者&nbsp;:&nbsp;<a href="https://www.mc2.osakac.ac.jp/mc2/userinfo.php?uid=1" title="プロフィール">mc2adm</a></span><span class="itemPostDate">&nbsp;投稿日時： 2023-10-26 18:32:29</span> (<span class="itemStats">80 ヒット</span>)</div><div class="itemBody"><div style="float:right;padding:0 3px 0 3px;"><a href="https://www.mc2.osakac.ac.jp/mc2/modules/bulletin/index.php?storytopic=3" title="センターからのお知らせ"><img src="https://www.mc2.osakac.ac.jp/mc2/modules/bulletin/images/topics/ecipinfo.gif" alt="センターからのお知らせ" style="hspace:'10'; vspace:'0'; " /></a></div><div class="itemText">MATLAB/Simulink TAHライセンス契約に基づき、MATLAB R2023bの提供を開始しました。<br />利用手続きなど、詳細については下記のWebページをご覧ください。<br /><br />キャンパスライセンス &gt; MATLAB<br /><a href="http://www.mc2.osakac.ac.jp/software/index.php?MATLAB" rel="external">http://www.mc2.osakac.ac.jp/software/index.php?MATLAB</a></div></div><div style="clear:both;"></div><div class="itemFoot"><span class="itemAdminLink"></span><span class="itemPermaLink"><a href="https://www.mc2.osakac.ac.jp/mc2/modules/bulletin/index.php?page=article&amp;storyid=582" title="コメント">0コメント</a></span></div></div><br /><div class="item"><div class="itemHead"><span class="itemTitle"><a href="https://www.mc2.osakac.ac.jp/mc2/modules/bulletin/index.php?storytopic=9" title="ソフトウェア情報">ソフトウェア情報</a>&nbsp;:&nbsp;<a href="https://www.mc2.osakac.ac.jp/mc2/modules/bulletin/index.php?page=article&amp;storyid=581" title="2023年度LabVIEW/Multisim学生インストールオプションについて">2023年度LabVIEW/Multisim学生インストールオプションについて</a></span></div><div class="itemInfo"><span class="itemPoster">投稿者&nbsp;:&nbsp;<a href="https://www.mc2.osakac.ac.jp/mc2/userinfo.php?uid=1" title="プロフィール">mc2adm</a></span><span class="itemPostDate">&nbsp;投稿日時： 2023-08-07 15:22:23</span> (<span class="itemStats">219 ヒット</span>)</div><div class="itemBody"><div class="itemText">NI社（旧National Instruments 社）とのアカデミックサイトライセンス契約の更新手続きが完了し、2023年度のLabVIEW/Multisim学生インストールオプションのシリアル番号が到着しました。<br />現在、学生インストールオプションで LabVIEW/Multisim 並びに MultisimLiveを利用されている方は、再度シリアル番号を入手し、ライセンス期限を更新してください。<br /><br />利用手続きなど、詳細については下記のページをご覧ください。<br /><br />キャンパスライセンス～LabVIEW：<br /><a href="http://www.mc2.osakac.ac.jp/software/index.php?LabVIEW" rel="external">http://www.mc2.osakac.ac.jp/software/index.php?LabVIEW</a><br /><br />キャンパスライセンス～Multisim：<br /><a href="http://www.mc2.osakac.ac.jp/software/index.php?Multisim" rel="external">http://www.mc2.osakac.ac.jp/software/index.php?Multisim</a></div></div><div style="clear:both;"></div><div class="itemFoot"><span class="itemAdminLink"></span><span class="itemPermaLink"><a href="https://www.mc2.osakac.ac.jp/mc2/modules/bulletin/index.php?page=article&amp;storyid=581" title="コメント">0コメント</a></span></div></div><br /><div class="item"><div class="itemHead"><span class="itemTitle"><a href="https://www.mc2.osakac.ac.jp/mc2/modules/bulletin/index.php?storytopic=9" title="ソフトウェア情報">ソフトウェア情報</a>&nbsp;:&nbsp;<a href="https://www.mc2.osakac.ac.jp/mc2/modules/bulletin/index.php?page=article&amp;storyid=580" title="Mathematica 13.3 提供開始のお知らせ">Mathematica 13.3 提供開始のお知らせ</a></span></div><div class="itemInfo"><span class="itemPoster">投稿者&nbsp;:&nbsp;<a href="https://www.mc2.osakac.ac.jp/mc2/userinfo.php?uid=1" title="プロフィール">mc2adm</a></span><span class="itemPostDate">&nbsp;投稿日時： 2023-07-04 08:59:12</span> (<span class="itemStats">195 ヒット</span>)</div><div class="itemBody"><div class="itemText">キャンパスライセンス契約に基づき、Mathematica バージョン13.3の提供を開始しました。<br />利用手続きなど、詳細については下記のページをご覧ください。<br /><br />キャンパスライセンス &gt; Mathematica<br /><a href="http://www.mc2.osakac.ac.jp/software/index.php?mathematica" rel="external">http://www.mc2.osakac.ac.jp/software/index.php?mathematica</a></div></div><div style="clear:both;"></div><div class="itemFoot"><span class="itemAdminLink"></span><span class="itemPermaLink"><a href="https://www.mc2.osakac.ac.jp/mc2/modules/bulletin/index.php?page=article&amp;storyid=580" title="コメント">0コメント</a></span></div></div><br /><div class="item"><div class="itemHead"><span class="itemTitle"><a href="https://www.mc2.osakac.ac.jp/mc2/modules/bulletin/index.php?storytopic=9" title="ソフトウェア情報">ソフトウェア情報</a>&nbsp;:&nbsp;<a href="https://www.mc2.osakac.ac.jp/mc2/modules/bulletin/index.php?page=article&amp;storyid=579" title="セキュリティソフト Apex One for Mac の不具合について">セキュリティソフト Apex One for Mac の不具合について</a></span></div><div class="itemInfo"><span class="itemPoster">投稿者&nbsp;:&nbsp;<a href="https://www.mc2.osakac.ac.jp/mc2/userinfo.php?uid=1" title="プロフィール">mc2adm</a></span><span class="itemPostDate">&nbsp;投稿日時： 2023-06-15 20:30:07</span> (<span class="itemStats">385 ヒット</span>)</div><div class="itemBody"><div class="itemText">2023年6月15日までにApex One for MacをインストールしていたPCが学内Apex Oneサーバにアクセスできない不具合が発生しています。<br />　<br />　現在公開中のインストーラを使用し、インストールした場合は正しく動作することが確認できています。<br />　<br />　学内ネットワークに接続している状態（mc2wifi1xや有線での接続）で、下図のように学内サーバと接続できていない場合は、<br />　Apex Oneをアンインストールし、現在公開中のインストールパッケージを用いて再インストールしてください。　<br /><br /><img src="http://www.mc2.osakac.ac.jp/mc2/uploads/imgd57abecf401b02ded9a9a.png" align="left" alt="" /><br />　<br /><br /><br /><br /><br /><br /><br /><br />　アンインストールおよびインストールの方法はマニュアルをご参照ください。<br />　<a href="https://sites.google.com/oecu.jp/trend-micro-apex-one-for-mac-p" rel="external">Trend Micro Apex One エージェント(Mac版)　インストールマニュアル</a></div></div><div style="clear:both;"></div><div class="itemFoot"><span class="itemAdminLink"></span><span class="itemPermaLink"><a href="https://www.mc2.osakac.ac.jp/mc2/modules/bulletin/index.php?page=article&amp;storyid=579" title="コメント">0コメント</a></span></div></div><br /><div class="item"><div class="itemHead"><span class="itemTitle"><a href="https://www.mc2.osakac.ac.jp/mc2/modules/bulletin/index.php?storytopic=9" title="ソフトウェア情報">ソフトウェア情報</a>&nbsp;:&nbsp;<a href="https://www.mc2.osakac.ac.jp/mc2/modules/bulletin/index.php?page=article&amp;storyid=578" title="2023年度用MATLABキャンパスライセンスについて">2023年度用MATLABキャンパスライセンスについて</a></span></div><div class="itemInfo"><span class="itemPoster">投稿者&nbsp;:&nbsp;<a href="https://www.mc2.osakac.ac.jp/mc2/userinfo.php?uid=1" title="プロフィール">mc2adm</a></span><span class="itemPostDate">&nbsp;投稿日時： 2023-04-04 19:17:17</span> (<span class="itemStats">272 ヒット</span>)</div><div class="itemBody"><div class="itemText">2023年度のMATLABキャンパスライセンスの更新手続きが完了しました。現在、MATLABを利用されている方は、ライセンス期限の更新作業が必要になります。更新方法は次のマニュアルを参照してください。<br /><br /><u>学内利用版</u><br />　<a href="https://drive.google.com/file/d/1WISJy0N7XfXs4m3yb22uNxavUOeg7JEZ/view?usp=sharing" rel="external">学内利用版ライセンス期限更新方法</a><br /><u>教職員・学生個人利用版</u><br />　<a href="https://drive.google.com/open?id=1eiMS2SbkoIB7Iw6-KaIRjygYbvi7Jej1" rel="external">教職員・学生個人利用版ライセンス期限更新方法</a><br /><br />MATLABキャンパスライセンスの詳細は、下記のWebページをご覧ください。<br /><a href="http://www.mc2.osakac.ac.jp/software/index.php?MATLAB" rel="external">http://www.mc2.osakac.ac.jp/software/index.php?MATLAB</a></div></div><div style="clear:both;"></div><div class="itemFoot"><span class="itemAdminLink"></span><span class="itemPermaLink"><a href="https://www.mc2.osakac.ac.jp/mc2/modules/bulletin/index.php?page=article&amp;storyid=578" title="コメント">0コメント</a></span></div></div><br /><div class="item"><div class="itemHead"><span class="itemTitle"><a href="https://www.mc2.osakac.ac.jp/mc2/modules/bulletin/index.php?storytopic=9" title="ソフトウェア情報">ソフトウェア情報</a>&nbsp;:&nbsp;<a href="https://www.mc2.osakac.ac.jp/mc2/modules/bulletin/index.php?page=article&amp;storyid=577" title="2023年度ChemOfficeキャンパスライセンスについて">2023年度ChemOfficeキャンパスライセンスについて</a></span></div><div class="itemInfo"><span class="itemPoster">投稿者&nbsp;:&nbsp;<a href="https://www.mc2.osakac.ac.jp/mc2/userinfo.php?uid=1" title="プロフィール">mc2adm</a></span><span class="itemPostDate">&nbsp;投稿日時： 2023-04-03 13:10:03</span> (<span class="itemStats">258 ヒット</span>)</div><div class="itemBody"><div class="itemText">2023年度のChemOfficeキャンパスライセンスの更新手続きが完了しました。現在、ChemOfficeを利用されている方は、ライセンス期限の更新作業を行ってください。<br /><br />ライセンス期限の更新方法やChemOfficeキャンパスライセンスの詳細は、下記のWebページをご覧ください。<br /><a href="http://www.mc2.osakac.ac.jp/software/index.php?ChemOffice" rel="external">http://www.mc2.osakac.ac.jp/software/index.php?ChemOffice</a></div></div><div style="clear:both;"></div><div class="itemFoot"><span class="itemAdminLink"></span><span class="itemPermaLink"><a href="https://www.mc2.osakac.ac.jp/mc2/modules/bulletin/index.php?page=article&amp;storyid=577" title="コメント">0コメント</a></span></div></div><br /><div class="item"><div class="itemHead"><span class="itemTitle"><a href="https://www.mc2.osakac.ac.jp/mc2/modules/bulletin/index.php?storytopic=9" title="ソフトウェア情報">ソフトウェア情報</a>&nbsp;:&nbsp;<a href="https://www.mc2.osakac.ac.jp/mc2/modules/bulletin/index.php?page=article&amp;storyid=576" title="2023年度用Mathematicaパスワードについて">2023年度用Mathematicaパスワードについて</a></span></div><div class="itemInfo"><span class="itemPoster">投稿者&nbsp;:&nbsp;<a href="https://www.mc2.osakac.ac.jp/mc2/userinfo.php?uid=1" title="プロフィール">mc2adm</a></span><span class="itemPostDate">&nbsp;投稿日時： 2023-03-29 12:23:56</span> (<span class="itemStats">233 ヒット</span>)</div><div class="itemBody"><div class="itemText">現在ご利用のMathematicaのライセンスは、2023年4月30日をもって有効期限切れとなります。2023年度用の新しいパスワードを入力することで、引き続き2024年4月30日までご利用いただけます。<br />2023年度用の新しいパスワードが必要な方は、学内利用の場合はキャンパスライセンスのWebページからダウンロードしてください(教職員のみ)。個人利用の場合は申請フォームから再度申請して取得してください。<br /><br />キャンパスライセンスWebページ<br />　キャンパスライセンス &gt; Mathematica<br />　<a href="http://www.mc2.osakac.ac.jp/software/index.php?mathematica" rel="external">http://www.mc2.osakac.ac.jp/software/index.php?mathematica</a></div></div><div style="clear:both;"></div><div class="itemFoot"><span class="itemAdminLink"></span><span class="itemPermaLink"><a href="https://www.mc2.osakac.ac.jp/mc2/modules/bulletin/index.php?page=article&amp;storyid=576" title="コメント">0コメント</a></span></div></div><br /><div class="item"><div class="itemHead"><span class="itemTitle"><a href="https://www.mc2.osakac.ac.jp/mc2/modules/bulletin/index.php?storytopic=9" title="ソフトウェア情報">ソフトウェア情報</a>&nbsp;:&nbsp;<a href="https://www.mc2.osakac.ac.jp/mc2/modules/bulletin/index.php?page=article&amp;storyid=575" title="Mathematica 13.2 提供開始のお知らせ">Mathematica 13.2 提供開始のお知らせ</a></span></div><div class="itemInfo"><span class="itemPoster">投稿者&nbsp;:&nbsp;<a href="https://www.mc2.osakac.ac.jp/mc2/userinfo.php?uid=1" title="プロフィール">mc2adm</a></span><span class="itemPostDate">&nbsp;投稿日時： 2023-01-30 19:17:54</span> (<span class="itemStats">280 ヒット</span>)</div><div class="itemBody"><div class="itemText">キャンパスライセンス契約に基づき、Mathematica バージョン13.2の提供を開始しました。<br />利用手続きなど、詳細については下記のページをご覧ください。<br /><br />キャンパスライセンス &gt; Mathematica<br /><a href="http://www.mc2.osakac.ac.jp/software/index.php?mathematica" rel="external">http://www.mc2.osakac.ac.jp/software/index.php?mathematica</a></div></div><div style="clear:both;"></div><div class="itemFoot"><span class="itemAdminLink"></span><span class="itemPermaLink"><a href="https://www.mc2.osakac.ac.jp/mc2/modules/bulletin/index.php?page=article&amp;storyid=575" title="コメント">0コメント</a></span></div></div><br /><div class="item"><div class="itemHead"><span class="itemTitle"><a href="https://www.mc2.osakac.ac.jp/mc2/modules/bulletin/index.php?storytopic=9" title="ソフトウェア情報">ソフトウェア情報</a>&nbsp;:&nbsp;<a href="https://www.mc2.osakac.ac.jp/mc2/modules/bulletin/index.php?page=article&amp;storyid=574" title="2022年度LabVIEW/Multisim学生インストールオプションについて">2022年度LabVIEW/Multisim学生インストールオプションについて</a></span></div><div class="itemInfo"><span class="itemPoster">投稿者&nbsp;:&nbsp;<a href="https://www.mc2.osakac.ac.jp/mc2/userinfo.php?uid=1" title="プロフィール">mc2adm</a></span><span class="itemPostDate">&nbsp;投稿日時： 2022-08-23 10:37:59</span> (<span class="itemStats">641 ヒット</span>)</div><div class="itemBody"><div class="itemText">NI社（旧National Instruments 社）とのアカデミックサイトライセンス契約の更新手続きが完了し、2022年度のLabVIEW/Multisim学生インストールオプションのシリアル番号が到着しました。<br />現在、学生インストールオプションで LabVIEW/Multisim 並びに MultisimLiveを利用されている方は、再度シリアル番号を入手し、ライセンス期限を更新してください。<br /><br />利用手続きなど、詳細については下記のページをご覧ください。<br /><br />キャンパスライセンス～LabVIEW：<br /><a href="http://www.mc2.osakac.ac.jp/software/index.php?LabVIEW" rel="external">http://www.mc2.osakac.ac.jp/software/index.php?LabVIEW</a><br /><br />キャンパスライセンス～Multisim：<br /><a href="http://www.mc2.osakac.ac.jp/software/index.php?Multisim" rel="external">http://www.mc2.osakac.ac.jp/software/index.php?Multisim</a></div></div><div style="clear:both;"></div><div class="itemFoot"><span class="itemAdminLink"></span><span class="itemPermaLink"><a href="https://www.mc2.osakac.ac.jp/mc2/modules/bulletin/index.php?page=article&amp;storyid=574" title="コメント">0コメント</a></span></div></div><br /><!-- end news item loop --><div style="text-align: right;"><b>(1)</b> <a href="/mc2/modules/bulletin/index.php?storytopic=0&amp;start=9">2</a> <a href="/mc2/modules/bulletin/index.php?storytopic=0&amp;start=18">3</a> <a href="/mc2/modules/bulletin/index.php?storytopic=0&amp;start=27">4</a> ... <a href="/mc2/modules/bulletin/index.php?storytopic=0&amp;start=405">46</a> <a href="/mc2/modules/bulletin/index.php?storytopic=0&amp;start=9"><u>&raquo;</u></a> </div>
+        </div>
+      </td>
+
+      
+    </tr>
+  </table>
+
+  <table cellspacing="0">
+    <tr id="footerbar">
+      <td><img src="https://www.mc2.osakac.ac.jp/mc2/themes/mc2/hbar.gif" alt="" />(c)2009-2023 Media Communication Center, Osaka Electro-Communication University.</td>
+    </tr>
+  </table>
+</body>
+</html>
