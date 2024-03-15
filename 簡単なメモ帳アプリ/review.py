@@ -1,3 +1,6 @@
+#最初SQLiteを用いてデータベースの機能を実装しようとした。しかし思ったように動作しなかった
+#解決策を探すうちにSQLAlchemyに行きつき、動作させることが出来た
+
 from flask import Flask,render_template,request
 from flask_sqlalchemy import SQLAlchemy
 
